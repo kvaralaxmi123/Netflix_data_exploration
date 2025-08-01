@@ -12,4 +12,4 @@ df = pd.read_csv(url)
 * Matplotlib / Seaborn
 * Google Colab
 ## How to run
-open 'Netflix_Project.ipynb' in colab to view code and outputs.
+open 'Netflix_analysis_project.ipynb' in colab to view code and outputs.
